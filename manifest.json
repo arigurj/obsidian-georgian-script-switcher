@@ -1,0 +1,10 @@
+{
+	"id": "georgian-script-switcher",
+	"name": "Georgian Script Switcher",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Converts selected text between Georgian, Latin and Cyrillic scripts.",
+	"author": "arigurj",
+	"authorUrl": "https://github.com/arigurj",
+	"isDesktopOnly": false
+}
