@@ -118,3 +118,29 @@ MIT © arigurj
 ### Лицензия
 
 MIT © arigurj
+
+---
+
+## აღწერა ქართულად
+
+პლაგინი [Obsidian](https://obsidian.md/) — ტექსტის გადაყვანა ქართულ, ლათინურ და კირილიცის ანბანებს შორის.
+
+### ბრძანებები
+
+| ბრძანება | აღწერა |
+|----------|--------|
+| **Convert (Georgian → Latin)** | ქართული → ლათინური |
+| **Convert (Latin → Georgian)** | ლათინური → ქართული |
+| **Convert (Georgian → Cyrillic)** | ქართული → კირილიცა |
+| **Convert (Cyrillic → Georgian)** | კირილიცა → ქართული |
+| **Convert (Latin → Cyrillic)** | ლათინური → კირილიცა |
+| **Convert (Cyrillic → Latin)** | კირილიცა → ლათინური |
+| **Convert script (auto)** | ავტომატური განსაზღვრა |
+
+### დაყენება
+
+ხელმისაწვდომია **Settings → Community plugins → Browse** როგორც **Georgian Script Switcher**.
+
+### ლიცენზია
+
+MIT © arigurj
